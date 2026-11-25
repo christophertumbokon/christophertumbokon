@@ -40,6 +40,6 @@ and on-device machine learning.
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christopher%20Tumbokon-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ctumbokon/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-444444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ctumboko@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-2E7D6B?style=for-the-badge&logo=github&logoColor=white)](https://christophertumbokon.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ctumbokon/)
+[![Email Me](https://img.shields.io/badge/Email%20Me-2E7D32?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ctumboko%40gmail.com)
+[![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-D83B01?style=for-the-badge&logo=github&logoColor=white)](https://christophertumbokon.github.io/)
