@@ -26,17 +26,7 @@ real-time systems. I've also worked on mobile robotics research using ROS 2.
 
 **Tools:** Git, Linux, oscilloscopes, logic analyzers, ROS 2
 
-## Featured Projects
 
-### STM32 Data Acquisition and CAN Communication
-
-An in-progress embedded project involving bare-metal C, sensor interfacing,
-hardware timers, and CAN communication on an STM32 microcontroller.
-
-### Autonomous Rover with ESP32-S3
-
-An ESP32-based rover project involving motor control, sensors, FreeRTOS,
-and on-device machine learning.
 
 ## Connect With Me
 
